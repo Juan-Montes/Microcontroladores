@@ -3,6 +3,7 @@ Practicas en diferentes Microcontroladores PIC, AVR y ARM para entender su estru
 
 
 Para realizar la totalidad de las practicas se necesitan algunos concepts basicos sobre los programadores que se necesitan.
+
 De la Practica 1-7 que son las del micro PIC se necesita el programador Pickit3 y los cristal de cuarzo son de 4MHz y opta por usar los capacitores (Opcionales) para eliminar el ruida se necesitan que sean de 22pF o 33pF.
 
 
