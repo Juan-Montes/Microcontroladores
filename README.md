@@ -13,4 +13,6 @@ De la Practica 1-7 que son las del micro PIC se necesita el programador Pickit3 
 Para las Practicas 8-13 se utilizo el programador AVR-Dragon el cual se explicara las conexiones para este, si no cuenta con este programador se puede utilizar con el programador UsbAsp para programador los Atmega.
 
 AVR-Dragon:
+
+
 ![AVRDragon](https://user-images.githubusercontent.com/63372411/142773791-f2396806-e232-4e40-90d0-14ea3bf8fec0.jpg)
