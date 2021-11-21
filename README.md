@@ -2,9 +2,9 @@
 Practicas en diferentes Microcontroladores PIC, AVR y ARM para entender su estructura
 
 
-Para realizar la totalidad de las practicas se necesitan algunos concepts basicos sobre los programadores que se necesitan.
+Para realizar la totalidad de las practicas se necesitan algunos conceptos basicos sobre los programadores que se necesitan.
 
-De la Practica 1-7 que son las del micro PIC se necesita el programador Pickit3 y el cristal de cuarzo es de 4MHz y si opta por usar los capacitores (Opcionales) para eliminar el ruida se necesitan que sean de 22pF o 33pF.
+De la Practica 1-7 que son las del micro PIC16F84A se necesita el programador Pickit3 y el cristal de cuarzo es de 4MHz y si opta por usar los capacitores (Opcionales) para eliminar el ruida se necesitan que sean de 22pF o 33pF. Estas Practicas se realizan en el lenguaje Ensamblador propias del compilador que se uso MPASM de MPLAB y de las etiquetas de la arcquitectura microchip serie PIC.
 
 
 ![pickit-3-pinouts-connection-diagram-1](https://user-images.githubusercontent.com/63372411/142773480-22c9b4cb-5f32-497e-9b55-1c619da37b9c.jpg)
