@@ -16,3 +16,8 @@ AVR-Dragon:
 
 
 ![AVRDragon](https://user-images.githubusercontent.com/63372411/142773791-f2396806-e232-4e40-90d0-14ea3bf8fec0.jpg)
+
+
+Conexiones de Jumpers en la Placa:
+
+![Conexiones](https://user-images.githubusercontent.com/63372411/142773880-cfe3e937-6fa7-4b22-8556-cba7ca6af437.jpeg)
