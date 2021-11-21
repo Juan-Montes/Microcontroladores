@@ -1,4 +1,4 @@
-Esta pequena practica consiste en prender y apagar un led por medio del programador ATMEGA328P que es el que tiene el Arduino Uno y su programacion se hace en el lenguaje C.
+Esta pequeña practica consiste en prender y apagar un led por medio del programador ATMEGA328P que es el que tiene el Arduino Uno y su programacion se hace en el lenguaje C.
 
 
 #define F_CPU 16000000UL
