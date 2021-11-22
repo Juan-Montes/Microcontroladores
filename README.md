@@ -10,7 +10,7 @@ De la Practica 1-7 que son las del micro PIC16F84A se eleboran en el lenjuaje En
 ![pickit-3-pinouts-connection-diagram-1](https://user-images.githubusercontent.com/63372411/142773480-22c9b4cb-5f32-497e-9b55-1c619da37b9c.jpg)
 
 
-Para las Practicas 8-13 se utilizo el programador AVR-Dragon el cual se explicara las conexiones para este, si no cuenta con este programador se puede utilizar con el programador UsbAsp para programador los Atmega.
+Para las Practicas 8-13 se elaboran en el lenguaje C y se utilizo el programador AVR-Dragon el cual se explicara las conexiones para este, si no cuenta con este programador se puede utilizar con el programador UsbAsp para programador los Atmega.
 
 AVR-Dragon:
 
